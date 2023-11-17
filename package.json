@@ -1,0 +1,15 @@
+{
+  "name": "portfolio_website",
+  "version": "1.0.0",
+  "description": "Recreating a portfolio website for a John Doe. (Practical)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "keywords": [],
+  "author": "Graham Boyle",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
